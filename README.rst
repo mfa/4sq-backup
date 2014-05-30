@@ -23,6 +23,6 @@ Setup
 
 ::
 
-  USER_TOKEN
+  USER_TOKEN = ''
 
 4) run backup.py
